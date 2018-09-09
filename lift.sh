@@ -57,6 +57,12 @@ function sanity_check
     exit 1
   fi
 
+  if [[ -z "${IDA_DIR}" ]]
+  then
+    echo "Please edit this script and set the IDA_DIR variable to where IDA Pro is installed"
+    exit 1
+  fi
+
   if [[ -z "${LLVM_VERSION}" ]]
   then
     echo "Please edit this script and set LLVM_VERSION to the desired LLVM version (e.g. 4.0)"

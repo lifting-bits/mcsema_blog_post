@@ -18,6 +18,7 @@ The following invocation of remill's `build.sh` should give the correct remill a
 ```sh
 scripts/build.sh --llvm-version 3.8 --prefix <your installation location> --extra-cmake-args -DMCSEMA_DISABLED_ABI_LIBRARIES:STRING=\"\"
 ```
+Currently the variable recovery scripts require IDA Pro.
 
 # Further Reading
 
