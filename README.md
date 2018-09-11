@@ -23,5 +23,5 @@ Currently the variable recovery scripts require IDA Pro.
 # Further Reading
 
 * The [Trail of Bits blog post](https://blog.trailofbits.com/2018/09/10/protecting-software-against-exploitation-with-darpas-cfar/) discussing using McSema with the multicompiler.
-* The Immunant blog post showing how to install and use the multicompiler.
+* The [Immunant blog post showing how to install and use the multicompiler](https://immunant.com/blog/2018/09/multicompiler/).
 * The [Galois blog post](https://galois.com/blog/2018/09/protecting-applications-with-automated-software-diversity/) showing how McSema and the Multicompiler fit together into a larger project.
