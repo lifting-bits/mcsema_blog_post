@@ -8,7 +8,7 @@ The sample program uses stack variables, global variables, and C++ exceptions to
 
 # Prerequisites
 
-Please install Immunant's multicompiler as described in their blog post.
+Please install Immunant's multicompiler as [described in their blog post](https://immunant.com/blog/2018/09/multicompiler/).
 
 To install McSema, please follow the [McSema installation instructions](https://github.com/trailofbits/mcsema/blob/master/README.md).
 
